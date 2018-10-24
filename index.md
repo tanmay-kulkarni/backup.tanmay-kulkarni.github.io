@@ -2,142 +2,52 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-## [EDA on Haberman's dataset](projects/hb.html).
+# Hello, world!
 
-
-
-
+I'm a software engineer specializing in machine learning and data science. I have three years of industry experience. 
+Here's my [resume](projects/resume-data-science.pdf). Please find below some of my projects.
 
 
 
+### 1. [Personalized Medicine - Redefining Cancer Treatment](projects/case_study_1.html)
+	
+> Classifying Cancer tumor into 9 distinct classes based on Genetic mutations. A multi-class classification problem based on the [dataset](https://www.kaggle.com/c/msk-redefining-cancer-treatment/data) provided by MSKCC
+	
+### 2. [Taxi demand prediction](projects/case_study_2.html)
+> Predicting the demand for taxis in New York City	
 
+### 3. [Case studies in Statistical Analysis](projects/stats.html)
 
+### 4. [Pandas is awesome!](projects/pandas.html)
+> We study pandas in all its glory. If you think you can use `pd.read_csv()` that's not enough!
 
+### 5. Classifying Amazon Food Reviews dataset
+> Amazon food reviews taken from kaggle are classified into positive or negative.
+* [Visualizing the clusters using t-SNE]()
+* [K Nearest Neighbors]()
+* [Naive Bayes]()
+* [Logistic Regression]()
+* [SVM with RBF kernel]()
+* [SGDClassifier with Hinge loss(linear SVM)]()
+* [Decision Trees]()
+* [Random Forest]()
+* [Gradient Boosted Decision Trees]()
+* [K-Means Clustering]()
+* [Agglomerative Clustering]()
+* [DBSCAN clustering]()
 
+### 6.  General EDA and Statistical Analysis
+> Here we do some statistics analysis. 	
+* [EDA on Haberman’s dataset](projects/hb.html)
+* [Intermediate Statistical analysis]()
+* [Data visualization with Seaborn]()
+* [Plotting geographical data with Python]()
 
-
-
-
-
-
-
-
-
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+### 7. Miscellaneous
+> Some random projects i've done.	
+*	[Understanding Gradient Descent]()
+*	[t-SNE on MNIST dataset]() 
+*	[Predicting the outcome of a Cricket game]()
+*	[Classifying mammographic masses]()
+*	[Understanding Covariance and Correlation]()
