@@ -33,7 +33,7 @@ ________________
 
 <!-- <p style="font-size:24px;text-align:center"> <a href='projects/hb.html'> <b> &#x1F642;  Personalized cancer diagnosis</b></a> </p>  -->
 
-## 1. [Personalized Medicine - Redefining Cancer Treatment](projects/hb.html)
+## 1. [Personalized Medicine - Redefining Cancer Treatment](projects/case_study_1.html)
 	
 > #### **SUMMARY :**
 
