@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Theme Styles
+#layout: page
+#title: Theme Styles
 ---
 
 ## Full Style Test

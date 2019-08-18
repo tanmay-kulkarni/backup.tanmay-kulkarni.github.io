@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Tanmay Kulkarni
 tagline:          Black Theme for Jekyll
-description:      "Here you can add some text."
+description:      "Welcome to my page!"
 url:              https://github.com/karloespiritu/blackdoc
 baseurl:          /
                   # the optional subpath of your site, e.g. "/my-jekyll-site/"
