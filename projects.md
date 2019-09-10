@@ -5,46 +5,23 @@ title: My Projects
 
 |1. [Taxi demand prediction](../project_files/case_study_2.html)|
 --------------------------|----------------------------
-| Can we predict with reasonable accuracy, the number of taxis that need to be present at location `l` at time `t`? In this project, I've tried to solve this problem on the [New York Taxis data](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml), with some time series analysis, basic statistics and some machine learning.|
+| Can we predict with reasonable accuracy, the number of taxis that need to be present at location **`l`** at time **`t`**? In this project, I've tried to give a solution to this problem using the [New York Taxis data](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml), with some time series analysis, basic statistics and some machine learning. I was able to achieve a satisfactory error of ~10%.|
 
-|2. [Classifying Cancer Tumors](../project_files/case_study_1.html)|
+|2. [Personalized Medicine: Redefining Cancer Treatment](../project_files/case_study_1.html)|
 --------------------------|----------------------------
-| **Description**: This is my attempt at solving the kaggle problem described [here](https://www.kaggle.com/c/msk-redefining-cancer-treatment/). I was able to achieve an accuracy of 98.68% and a `loglos` of 0.0643.|
+| A cancer tumor can have thousands of genetic mutations. But the challenge is distinguishing the mutations that contribute to tumor growth (drivers) from the neutral mutations (passengers). This is my attempt at solving the kaggle problem described [here](https://www.kaggle.com/c/msk-redefining-cancer-treatment/). I was able to achieve an accuracy of **98.68%** and a `logloss` of **0.0643.**|
 
 |3. [Stack Overflow Tag prediction](../project_files/sotp.html)|
 --------------------------|----------------------------
-| **Description**: This is my attempt at solving the kaggle problem described [here](https://www.kaggle.com/c/msk-redefining-cancer-treatment/). I was able to achieve an accuracy of 98.68% and a `loglos` of 0.0643.|
+| The task is to predict the tags (a.k.a. keywords, topics, summaries), given only the question text and its title. The dataset contains content from disparate stack exchange sites, containing a mix of both technical and non-technical questions. You can find the kaggle problem [here](https://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction).|
 
-|4. [Microsoft Malware Detection](../project_files/malware.html)|
+|4. [Microsoft Malware Classification challenge](../project_files/malware_detection.html)|
 --------------------------|----------------------------
-| **Description**: Solving the Microsoft Malware classification challenge found [here](https://www.kaggle.com/c/msk-redefining-cancer-treatment/). I was able to achieve an accuracy.|
+| This is my attempt at solving the Microsoft Malware classification challenge described [here](https://www.kaggle.com/c/microsoft-malware-prediction). I was able to achieve a logloss of **0.013** for this problem, which can be considered quite good. This problem was particularly interesting because it required me to deal with a huge amount of data, approximately 200GB.|
 
-|5. Random Stuff|
+|5. [Quora Question Pair Chellenge - Identify duplicates](../project_files/quora_question_pair.html)|
 --------------------------|----------------------------
-| **Description**: Solving the Microsoft Malware classification challenge found [here](https://www.kaggle.com/c/msk-redefining-cancer-treatment/). I was able to achieve an accuracy.|
-
-* [Predicting the outcome of a Cricket game](../project_files/Cricket.html)
-	- This was actually a problem statement given to me in an interview. The requirement was to just draw a flow chart to explain the approach. I expanded the scope of it and used an actual dataset available on Kaggle to demonstrate some EDA and ML.
-
-* [Implementing Gradient Descent](../project_files/gd_1.html)
-	- Implemented the Gradient Descent algorithm for a linear regression case.
-
-* [Statistical Analysis using Python](../project_files/statistics.html)
-	- Basic statistics using Python to understand distributions of data, and Hypothesis testing.
-
-* [Mammographic Masses Classification](../project_files/mammographic_masses_classification.html)
-
-* [Word vectors using Truncated SVD](../project_files/random/Word_Vectors_using_Truncated_SVD.html)
-
-* My journey into understanding **_Neural Networks_**
-	- [A very simple Neural Network to get started](../project_files/dl/simplest_nn.html)
-	- [Predicting house price using a simple Neural Network](../project_files/dl/house_price.html)
-	- The Hello world of Neural Nets - MNIST
-		- [Multilayered Perceptron](../project_files/dl/mnist.html)
-		- [Using a ConvNet](../project_files/dl/mnist_cnn.html)
-		- [Fasion MNIST](../project_files/dl/fasion_mnist.html)
-
-
+| This competition was posted on Kaggle by Quora. The challenge is to tackle a natural language processing problem by applying advanced techniques to classify whether question pairs are duplicates or not. You can find this problem on Kaggle [here](https://www.kaggle.com/c/quora-question-pairs).|
 
 |6. Amazon Fine Food Reviews|
 --------------------------|----------------------------
@@ -69,5 +46,37 @@ title: My Projects
 * [KMEANS](../project_files/afr_kmeans.html)
 
 * [tSNE](../project_files/afr_tsne.html)
+
+
+
+|7. Random Stuff|
+--------------------------|----------------------------
+| This section contains some independent or ad hoc code I've written to try some experiments or improve my understanding of a topic.|
+
+* [Predicting the outcome of a Cricket game](../project_files/Cricket.html)
+	- This was actually a problem statement given to me in an interview. The requirement was to just draw a flow chart to explain the approach. I expanded the scope of it and used an actual dataset available on Kaggle to demonstrate some EDA and ML.
+
+* [Exploratory Analysis on Haberman's dataset](../project_files/hb.html)
+
+* [Implementing Gradient Descent](../project_files/gd_1.html)
+	- Implemented the Gradient Descent algorithm to perform Linear Regression.
+
+* [Statistical Analysis using Python](../project_files/statistics.html)
+	- Basic statistics using Python to understand distributions of data, and Hypothesis testing.
+
+* [Mammographic Masses Classification](../project_files/mammographic_masses_classification.html)
+	- This problem is similar to the tumor classification challenge described above, but having a smaller scope. The data for this problem is taken from the [UCI ML repository](http://archive.ics.uci.edu/ml/datasets/mammographic+mass).
+
+* [Word vectors using Truncated SVD](../project_files/random/Word_Vectors_using_Truncated_SVD.html)
+
+* My journey into understanding **_Neural Networks_**
+	- [A very simple Neural Network to get started](../project_files/dl/simplest_nn.html)
+	- [Predicting house price using a simple Neural Network](../project_files/dl/house_price.html)
+	- The Hello world of Neural Nets - MNIST
+		- [Multilayered Perceptron](../project_files/dl/mnist.html)
+		- [Using a ConvNet](../project_files/dl/mnist_cnn.html)
+		- [Fasion MNIST](../project_files/dl/fasion_mnist.html)
+
+
 
 
