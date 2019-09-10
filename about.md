@@ -22,4 +22,4 @@ Hi there! I'm a machine learning engineer specializing in the Python open-source
 
 | OS     | IDE              | Libraries    | Version Control |
 |--------|------------------|--------------|-----------------|
-| Ubuntu | Jupyter Notebook | Pandas, Numpy, scikit-learn, tensorflow, Keras, Matplotlib, Searborn | Git             |
+| Ubuntu | Jupyter Notebook | Pandas, Numpy, scikit-learn, tensorflow, Keras, Matplotlib, Seaborn | Git             |
