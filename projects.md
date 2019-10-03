@@ -23,7 +23,15 @@ title: My Projects
 --------------------------|----------------------------
 | This competition was posted on Kaggle by Quora. The challenge is to tackle a natural language processing problem by applying advanced techniques to classify whether question pairs are duplicates or not. You can find this problem on Kaggle [here](https://www.kaggle.com/c/quora-question-pairs).|
 
-|6. Amazon Fine Food Reviews|
+|6. [Facebook Friend Recommender](../project_files/FB_Friend_Recommender.html)|
+--------------------------|----------------------------
+| This competition was posted on Kaggle by Quora. The challenge is to tackle a natural language processing problem by applying advanced techniques to classify whether question pairs are duplicates or not. You can find this problem on Kaggle [here](https://www.kaggle.com/c/quora-question-pairs).|
+
+|7. [Using LSTM to predict approved projects on DonorsChoose.com](../project_files/donors_choose_LSTM.html)|
+--------------------------|----------------------------
+| This competition was posted on Kaggle by Quora. The challenge is to tackle a natural language processing problem by applying advanced techniques to classify whether question pairs are duplicates or not. You can find this problem on Kaggle [here](https://www.kaggle.com/c/quora-question-pairs).|
+
+|8. Amazon Fine Food Reviews|
 --------------------------|----------------------------
 |  The "Amazon Fine Food Reviews" is a dataset that contains customer reviews collected for more than 10 years by Amazon. The objective of this project is to classify the reviews as positive or negative. I've tried various ML techniques for this which are listed below. You can find the original dataset [here](https://www.kaggle.com/snap/amazon-fine-food-review).
 
