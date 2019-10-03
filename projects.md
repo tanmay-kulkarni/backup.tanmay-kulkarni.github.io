@@ -29,7 +29,7 @@ title: My Projects
 
 |7. [Using LSTM to predict approved projects on DonorsChoose.com](../project_files/donors_choose_LSTM.html)|
 --------------------------|----------------------------
-| DonorsChoose.com is an online portal that empowers public school teachers in the USA to acquire funding for students' school projects. The donors who want to contribute can browse through hundreds of projects on the site to select the one they want to donate to. The site receives thousands of project requests to be posted on the site. Not every projet is accepted. There's a manual review process. The problem faced here is to automate the review process by designing an ML model that can accurately predict whether a project would be approved or rejected.  [here](https://www.kaggle.com/donorschoose/io) is the full problem description on Kaggle.|
+| DonorsChoose.com is an online portal that empowers public school teachers in the USA to acquire funding for students' school projects. The donors who want to contribute can browse through hundreds of projects on the site to select the one they want to donate to. The site receives thousands of project requests to be posted on the site. Not every project is accepted. There's a manual review process. The problem faced here is to automate the review process by designing an ML model that can accurately predict whether a project would be approved or rejected.  [here](https://www.kaggle.com/donorschoose/io) is the full problem description on Kaggle.|
 
 |8. Amazon Fine Food Reviews|
 --------------------------|----------------------------
