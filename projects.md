@@ -25,7 +25,7 @@ title: My Projects
 
 |6. [Facebook Friend Recommender](../project_files/FB_Friend_Recommender.html)|
 --------------------------|----------------------------
-| This competition was posted on Kaggle by Quora. The challenge is to tackle a natural language processing problem by applying advanced techniques to classify whether question pairs are duplicates or not. You can find this problem on Kaggle [here](https://www.kaggle.com/c/quora-question-pairs).|
+| Facebook, as everyone knows, is the biggest online social network in existance with Billions of daily active users. A friend recommender/account to follow is a very crucial problem to solve for a social network. In this project, I've tried to build a few models which predict whether one node (user) follows another. The results obtained were exciting, with the best f1 score of **0.92** on test data. You can find the original problem [here](https://www.kaggle.com/c/FacebookRecruiting/overview).|
 
 |7. [Using LSTM to predict approved projects on DonorsChoose.com](../project_files/donors_choose_LSTM.html)|
 --------------------------|----------------------------
