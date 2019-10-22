@@ -15,23 +15,29 @@ title: My Projects
 --------------------------|----------------------------
 | The task is to predict the tags (a.k.a. keywords, topics, summaries), given only the question text and its title. The dataset contains content from disparate stack exchange sites, containing a mix of both technical and non-technical questions. You can find the kaggle problem [here](https://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction).|
 
-|4. [Microsoft Malware Classification challenge](../project_files/malware_detection.html)|
+|4. [Self Driving Car](../project_files/self_driving_car.html)|
+--------------------------|----------------------------
+| In this project, I try to simulate a self driving car. This project is based on a research paper published by Nvidia. The constructed neural network takes in raw images of a car being driven on the road and learns to predict the angle of the steering wheel.|
+
+
+
+|5. [Microsoft Malware Classification challenge](../project_files/malware_detection.html)|
 --------------------------|----------------------------
 | This is my attempt at solving the Microsoft Malware classification challenge described [here](https://www.kaggle.com/c/microsoft-malware-prediction). I was able to achieve a logloss of **0.013** for this problem, which can be considered quite good. This problem was particularly interesting because it required me to deal with a huge amount of data, approximately 200GB.|
 
-|5. [Quora Question Pair Chellenge - Identify duplicates](../project_files/quora_question_pair.html)|
+|6. [Quora Question Pair Chellenge - Identify duplicates](../project_files/quora_question_pair.html)|
 --------------------------|----------------------------
 | This competition was posted on Kaggle by Quora. The challenge is to tackle a natural language processing problem by applying advanced techniques to classify whether question pairs are duplicates or not. You can find this problem on Kaggle [here](https://www.kaggle.com/c/quora-question-pairs).|
 
-|6. [Facebook Friend Recommender](../project_files/FB_Friend_Recommender.html)|
+|7. [Facebook Friend Recommender](../project_files/FB_Friend_Recommender.html)|
 --------------------------|----------------------------
 | Facebook, as everyone knows, is the biggest online social network in existance with Billions of daily active users. A friend recommender/account to follow is a very crucial problem to solve for a social network. In this project, I've tried to build a few models which predict whether one node (user) follows another. The results obtained were exciting, with the best f1 score of **0.92** on test data. You can find the original problem [here](https://www.kaggle.com/c/FacebookRecruiting/overview).|
 
-|7. [Using LSTM to predict approved projects on DonorsChoose.com](../project_files/donors_choose_LSTM.html)|
+|8. [Using LSTM to predict approved projects on DonorsChoose.com](../project_files/donors_choose_LSTM.html)|
 --------------------------|----------------------------
 | DonorsChoose.com is an online portal that empowers public school teachers in the USA to acquire funding for students' school projects. The donors who want to contribute can browse through hundreds of projects on the site to select the one they want to donate to. The site receives thousands of project requests to be posted on the site. Not every project is accepted. There's a manual review process. The problem faced here is to automate the review process by designing an ML model that can accurately predict whether a project would be approved or rejected.  [here](https://www.kaggle.com/donorschoose/io) is the full problem description on Kaggle.|
 
-|8. Amazon Fine Food Reviews|
+|9. Amazon Fine Food Reviews|
 --------------------------|----------------------------
 |  The "Amazon Fine Food Reviews" is a dataset that contains customer reviews collected for more than 10 years by Amazon. The objective of this project is to classify the reviews as positive or negative. I've tried various ML techniques for this which are listed below. You can find the original dataset [here](https://www.kaggle.com/snap/amazon-fine-food-review).
 
