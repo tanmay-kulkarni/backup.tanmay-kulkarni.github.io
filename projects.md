@@ -33,11 +33,15 @@ title: My Projects
 --------------------------|----------------------------
 | Facebook, as everyone knows, is the biggest online social network in existance with Billions of daily active users. A friend recommender/account to follow is a very crucial problem to solve for a social network. In this project, I've tried to build a few models which predict whether one node (user) follows another. The results obtained were exciting, with the best f1 score of **0.92** on test data. You can find the original problem [here](https://www.kaggle.com/c/FacebookRecruiting/overview).|
 
-|8. [Using LSTM to predict approved projects on DonorsChoose.com](../project_files/donors_choose_LSTM.html)|
+|8. [Human Activity Recognition](../project_files/Human_Activity_Recognition.html)|
+--------------------------|----------------------------
+| Our mobile phone has two different sensors - accelerometer and the gyroscope. Using machine learning, I've tried to predict the type of activity performed by a human based on raw sensors data and some expert engineered features.|
+
+|9. [Using LSTM to predict approved projects on DonorsChoose.com](../project_files/donors_choose_LSTM.html)|
 --------------------------|----------------------------
 | DonorsChoose.com is an online portal that empowers public school teachers in the USA to acquire funding for students' school projects. The donors who want to contribute can browse through hundreds of projects on the site to select the one they want to donate to. The site receives thousands of project requests to be posted on the site. Not every project is accepted. There's a manual review process. The problem faced here is to automate the review process by designing an ML model that can accurately predict whether a project would be approved or rejected.  [here](https://www.kaggle.com/donorschoose/io) is the full problem description on Kaggle.|
 
-|9. Amazon Fine Food Reviews|
+|10. Amazon Fine Food Reviews|
 --------------------------|----------------------------
 |  The "Amazon Fine Food Reviews" is a dataset that contains customer reviews collected for more than 10 years by Amazon. The objective of this project is to classify the reviews as positive or negative. I've tried various ML techniques for this which are listed below. You can find the original dataset [here](https://www.kaggle.com/snap/amazon-fine-food-review).
 
